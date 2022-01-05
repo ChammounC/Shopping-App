@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554870138811",
+    "project_id": "oyelabs-chammoun",
+    "storage_bucket": "oyelabs-chammoun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554870138811:android:c036e26f92078b729f469e",
+        "android_client_info": {
+          "package_name": "com.example.oyelabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554870138811-10vs62vl70t38up7k11e45999o6ckkv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyelabs",
+            "certificate_hash": "54e545b5363d5a6c1900339061c7c147b2060bd2"
+          }
+        },
+        {
+          "client_id": "554870138811-4nqmbgmtes7hk8iouvfot4n3c76o5f7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvKd3hAeiZBX7dTOROmzn4-oCN5buN6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554870138811-4nqmbgmtes7hk8iouvfot4n3c76o5f7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
