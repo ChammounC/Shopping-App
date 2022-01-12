@@ -76,7 +76,7 @@ class _OtpScreenState extends State<OtpScreen> {
                     children: [
                       TextSpan(
                           text:
-                              '${context.watch<FirebaseProvider>().number}',
+                              '+91 ${context.watch<FirebaseProvider>().number}',
                           style: TextStyle(fontWeight: FontWeight.bold))
                     ],
                   ),

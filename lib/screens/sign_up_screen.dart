@@ -149,8 +149,8 @@ class _SignUpScreenState extends State<SignUpScreen> {
                   if(_signUpController.text.length < 10){
                     return;
                   }
-                  _signUpController.text = '+91'+_signUpController.text;
                   context.read<FirebaseProvider>().addNumber(_signUpController.text);
+                  _signUpController.text = '+91'+_signUpController.text;
                   setState(() {
                     showLoading = true;
                   });
