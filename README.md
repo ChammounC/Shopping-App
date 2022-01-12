@@ -1,16 +1,27 @@
-# oyelabs
+# Shopping App
 
-A new Flutter project.
+This App is more focused upon the various Authentication methods provided by Firebase such as SignIn and SignUp with Phone Number, Email, Google and Facebook.
+## What I Learned
 
-## Getting Started
+- Update UI according to the user information such as Phone Number and User Location.
+- Enable Location access of the phone
+- Better understanding of Firebase Console
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center"> 
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/1_Splash.png' height = "400">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/3_SignUp_Page.png' height = "400">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/2_SignIn_Page.png' height = "400">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/4_Otp_Page.png' height = "400">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/5_Location_Page.png' height = "400">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/6_HomePage_1.png' height = "400">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/7_HomePage_2.png' height = "400">
+<img src = 'https://github.com/ChammounC/images/blob/master/ShoppingApp/8_HomePage_3.png' height = "400">
+</p>
